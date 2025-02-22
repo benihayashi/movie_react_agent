@@ -173,3 +173,5 @@ cython_debug/
 
 #mysqlite db
 movie_db.sqlite
+
+/tmp
