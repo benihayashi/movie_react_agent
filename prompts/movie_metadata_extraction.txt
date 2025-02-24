@@ -1,0 +1,13 @@
+###Task:
+Extract the entities and the movie genre from the following movie description:
+
+!<INPUT_0>
+
+###Entities to extract:
+locations, characters, time period, events, sentimental, genre !<INPUT_1>
+
+###Example output
+{"characters": ["jack", "ben"]}
+
+###Output format
+json format,  give each entities a suitable key in lower-snake-case , and the value can be string or array of string, you may put an empty array for fields that have no values
