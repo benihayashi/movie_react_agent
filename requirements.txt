@@ -11,4 +11,6 @@ numpy==1.26.4
 openai==1.64.0
 pandas==2.2.3
 prompt_toolkit==3.0.45
-
+langgraph==0.2.74
+langgraph-checkpoint==2.0.16
+langgraph-sdk==0.1.5
