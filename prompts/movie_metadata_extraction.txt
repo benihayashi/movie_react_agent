@@ -10,4 +10,4 @@ locations, characters, time period, events, sentimental, genre !<INPUT_1>
 {"characters": ["jack", "ben"]}
 
 ###Output format
-json format,  give each entities a suitable key in lower-snake-case , and the value can be string or array of string, you may put an empty array for fields that have no values
+json format,  the key for each properties should be the exracted entity (e.g. locations, characters), and the value should be array of string, you may put an empty array for fields that have no values

@@ -175,3 +175,5 @@ cython_debug/
 movie_db.sqlite
 
 /tmp
+
+/chroma_db
