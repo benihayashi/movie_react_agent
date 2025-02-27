@@ -1,0 +1,13 @@
+[task]
+A list of movie titles followed by their descriptions.
+
+[example output]
+1. Star wars: The story of galaxy
+2. Tarzan: A movie about how tarzan save his home
+
+[output format]
+A numbered list where each item follows this structure:
+<Number>. <Movie Title>: <Short Summary>
+
+[input]
+!<INPUT_0>
